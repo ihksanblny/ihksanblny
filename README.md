@@ -12,15 +12,15 @@
 </p>
 
 <div align="center">
-  <a href="[<strong>URL LinkedIn Anda</strong>]" target="_blank">
+  <a href="[<strong>https://www.linkedin.com/in/ihksanblny</strong>]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:[<strong>Email Anda</strong>]" target="_blank">
+  <a href="mailto:[<strong>ihksanbalany@gmail.com</strong>]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="[<strong>URL Instagram/Twitter Anda</strong>]" target="_blank">
+  <a href="[<strong>https://www.instagram.com/ihksanblnyy</strong>]" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
