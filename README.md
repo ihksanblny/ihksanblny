@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihksanblny&color=0077B5&style=flat-square" alt="Profile views" />
+  <img src="https://media.giphy.com/media/WFw6xX341g23yq7zHn/giphy.gif" alt="Coding Vibes GIF" width="200px"/>
 </p>
 
 <h1 align="center">
