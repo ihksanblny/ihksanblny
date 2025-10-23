@@ -4,11 +4,10 @@
 </h1>
 
 <p align="center">
-  A passionate [<strong>Full-Stack Developer / Web Developer</strong>] from Indonesia 🇮🇩.
+  A passionate [<strong>Full-Stack Developer / Web Developer / Devops / Cyber Security/ Cloud Computing</strong>] from Indonesia 🇮🇩.
   <br>
   I love building responsive web applications and exploring new technologies.
   <br>
-  Currently working on [<strong>proyek Anda saat ini, misal: a link-in-bio tool</strong>] and learning [<strong>teknologi baru</strong>].
 </p>
 
 <div align="center">
@@ -66,7 +65,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">Proyek 1: [Nama Proyek Anda]</h3>
+      <h3 align="left">Proyek 1: Linkhub</h3>
       <p align="left">
         <a href="[<strong>URL ke GitHub Repo Anda</strong>]" target="_blank">
           <img src="[<strong>URL ke screenshot/demo GIF proyek Anda</strong>]" alt="Demo Proyek 1" width="100%">
@@ -87,7 +86,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">Proyek 2: [Nama Proyek Anda]</h3>
+      <h3 align="left">Proyek 2: Deploy Model ML</h3>
       <p align="left">
         <a href="[<strong>URL ke GitHub Repo Anda</strong>]" target="_blank">
           <img src="[<strong>URL ke screenshot/demo GIF proyek Anda</strong>]" alt="Demo Proyek 2" width="100%">
