@@ -1,118 +1,79 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ihksanblny&color=0077B5&style=flat-square" alt="Profile views" />
+</p>
+
 <h1 align="center">
   Hi there, I'm Ihksan 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
-  A passionate [<strong>Full-Stack Developer / Web Developer / Devops / Cyber Security/ Cloud Computing</strong>] from Indonesia 🇮🇩.
+  <strong>A passionate <span style="color: #0077B5;">...</span> from Indonesia 🇮🇩</strong>
   <br>
-  I love building responsive web applications and exploring new technologies.
-  <br>
+  <a href="https://readme-typing-svg.demolab.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+Developer;DevOps+Enthusiast;Cyber+Security+Learner;Cloud+Computing+Aspirant" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
-  <a href="[<strong>https://www.linkedin.com/in/ihksanblny</strong>]" target="_blank">
+  <a href="https://www.linkedin.com/in/ihksanblny" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:[<strong>ihksanbalany@gmail.com</strong>]" target="_blank">
+  <a href="mailto:ihksanbalany@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="[<strong>https://www.instagram.com/ihksanblnyy</strong>]" target="_blank">
+  <a href="https://www.instagram.com/ihksanblnyy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
-<hr>
-
-<h2 align="left">🛠️ My Tech Stack</h2>
-<p align="left">
-  <strong>Languages:</strong>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py" />
-  </a>
-  <br><br>
-
-  <strong>Frontend:</strong>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  </a>
-  <br><br>
-
-  <strong>Backend & Full Stack:</strong>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,php" />
-  </a>
-  <br><br>
-
-  <strong>Cloud, Design & Tools:</strong>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,figma,photoshop,git,github,vscode" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangoyal/iampavangoyal/master/assets/hr.gif" width="60%">
 </p>
 
-<hr>
+<div align="center">
+  <h2 align="center">🛠️ My Tech Stack</h2>
+  
+  <p align="center">
+    <strong>Languages:</strong>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,py" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <strong>Frontend:</strong>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <strong>Backend & Full Stack:</strong>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,php" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <strong>Cloud, Design & Tools:</strong>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=gcp,figma,photoshop,git,github,vscode" />
+    </a>
+  </p>
+</div>
 
-<h2 align="left">🚀 My Featured Projects</h2>
-<p align="left">
-  Berikut adalah beberapa proyek yang telah saya kerjakan. Anda bisa melihat lebih banyak di *repository* saya.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangoyal/iampavangoyal/master/assets/hr.gif" width="60%">
 </p>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">Proyek 1: Linkhub</h3>
-      <p align="left">
-        <a href="[<strong>URL ke GitHub Repo Anda</strong>]" target="_blank">
-          <img src="[<strong>URL ke screenshot/demo GIF proyek Anda</strong>]" alt="Demo Proyek 1" width="100%">
-        </a>
-      </p>
-      <p align="left">
-        <strong>Deskripsi:</strong> [<strong>Deskripsi singkat 1-2 kalimat tentang proyek ini.</strong>]
-        <br>
-        <strong>Tech:</strong> [<strong>Teknologi yang digunakan, misal: Next.js, Express, Tailwind</strong>]
-      </p>
-      <p align="left">
-        <a href="[<strong>URL ke GitHub Repo Anda</strong>]" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="[<strong>URL ke Live Demo (jika ada)</strong>]" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">Proyek 2: Deploy Model ML</h3>
-      <p align="left">
-        <a href="[<strong>URL ke GitHub Repo Anda</strong>]" target="_blank">
-          <img src="[<strong>URL ke screenshot/demo GIF proyek Anda</strong>]" alt="Demo Proyek 2" width="100%">
-        </a>
-      </p>
-      <p align="left">
-        <strong>Deskripsi:</strong> [<strong>Deskripsi singkat 1-2 kalimat tentang proyek ini.</strong>]
-        <br>
-        <strong>Tech:</strong> [<strong>Teknologi yang digunakan, misal: Laravel, React, GCP</strong>]
-      </p>
-      <p align="left">
-        <a href="[<strong>URL ke GitHub Repo Anda</strong>]" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="[<strong>URL ke Live Demo (jika ada)</strong>]" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
-<hr>
-
-<h2 align="left">📊 My GitHub Stats</h2>
-
+<h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ihksanblny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ikhsan's GitHub Stats" />
   &nbsp;
@@ -121,3 +82,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihksanblny&theme=dracula" alt="Ikhsan's Streak Stats" />
 </p>
+
+<br>
+<hr>
