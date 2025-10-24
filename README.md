@@ -77,7 +77,7 @@
 
   <p><strong>Cloud, Design & Tools:</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,figma,photoshop,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=gcp,postman,figma,photoshop,git,github,vscode" />
   </a>
 </div>
 
