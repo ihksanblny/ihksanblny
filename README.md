@@ -83,11 +83,6 @@
 
 <br>
 
-<!-- QUOTE -->
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?quotes=5&theme=dracula" alt="Random Dev Quote"/>
-</p>
-
 <!-- DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/iampavangoyal/iampavangoyal/master/assets/hr.gif" width="60%">
