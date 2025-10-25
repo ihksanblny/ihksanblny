@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WFw6xX341g23yq7zHn/giphy.gif" alt="Coding Vibes GIF" width="180px"/>
+  <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="Coding Vibes GIF" width="180px"/>
 </p>
 
 <h1 align="center">
