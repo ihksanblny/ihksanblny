@@ -73,7 +73,7 @@
 
   <p><strong>Frontend:</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue" />
   </a>
 
   <p><strong>Backend & Full Stack:</strong></p>
