@@ -1,4 +1,4 @@
-!-- HEADER -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="Coding Vibes GIF" width="180px"/>
 </p>
