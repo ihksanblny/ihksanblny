@@ -81,6 +81,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,php,go" />
   </a>
 
+  <p><strong>AI</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
+
   <p><strong>Cloud, Design & Tools:</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,postman,figma,photoshop,git,github,vscode" />
