@@ -78,7 +78,7 @@
 
   <p><strong>Backend & Full Stack:</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,php,go" />
   </a>
 
   <p><strong>Cloud, Design & Tools:</strong></p>
