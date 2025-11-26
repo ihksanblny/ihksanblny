@@ -81,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,php,go" />
   </a>
 
-  <p><strong>AI</strong></p>
+  <p><strong>Machine Learning</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   </a>
